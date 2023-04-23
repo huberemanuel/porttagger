@@ -1,0 +1,1 @@
+The files inside `outputs` folder contains the predictions of each experiment (10 per model) on the Porttinari-base corpus.
